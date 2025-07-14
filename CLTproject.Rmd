@@ -106,4 +106,5 @@ p + ggtitle("n = 9") +
 xlab("temperature") + ylab(" density")
 ```
 
-From my observation it shows that every time this observation is knitted it shows a different graph. Also it gives me the value of standard deviation. 
+From my observation it shows that every time this observation is knitted it shows a different graph. Also it gives me the value of standard deviation. It was 41.726755170983 the first time and I expect this number to be half of the k2. k9 is less than half of k2.
+
